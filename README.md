@@ -1,3 +1,14 @@
+此项目是 Google 提供的一个非官方的项目，它的侧重点在于将 OpenGL 与 Android 音视频 API 综合运用。
+
+它包含了很多个完整小示例，比如如何使用 TextureView 显示 OpenGL 内容、使用三种方式进行 OpenGL 内容的录制、如何进行硬编码操作等。
+
+通过阅读这些例子，能够让你掌握更多的技巧，把前面学会的 OpenGL 和 Android 音视频 API 更灵活运用了，进一步加深理解。
+
+甚至有些例子都可以用到项目早期需求中去的，比如如何进行 EGL 的封装、渲染线程与主线程的分离。
+
+另外，以上三个例子都会包含 Camera 相关的操作，比如如何将 Camera 内容展示到 SurfaceView 、TextureView 上，如何进行 Camera 拍摄等。
+
+
 Grafika
 =======
 
